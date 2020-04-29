@@ -11,26 +11,36 @@ Les licences sont associées à chaque fois que possible lorsqu'il s'agit de ré
 Bonne réutilisation à toutes et à tous !
             
 Liste des widgets : 
-(https://fbocquet.github.io/Widget_OpenSankore/Abaques)
-<https://fbocquet.github.io/Widget_OpenSankore/Aire du cercle>
-<https://fbocquet.github.io/Widget_OpenSankore/Appel demo>
+
+<https://fbocquet.github.io/Widget_OpenSankore/Abaques>
+
+<https://fbocquet.github.io/Widget_OpenSankore/Aire_du_cercle>
+
+<https://fbocquet.github.io/Widget_OpenSankore/Appel_demo>
+
 <https://fbocquet.github.io/Widget_OpenSankore/Balances>
+
 <https://fbocquet.github.io/Widget_OpenSankore/Boulier>
-<https://fbocquet.github.io/Widget_OpenSankore/Bubbles>
+
+<https://fbocquet.github.io/Widget_OpenSankore/Bubbles/bubble>
+
 <https://fbocquet.github.io/Widget_OpenSankore/C-doux>
-<https://fbocquet.github.io/Widget_OpenSankore/Calc. Scientifique>
-<https://fbocquet.github.io/Widget_OpenSankore/Calculette v2>
+
+<https://fbocquet.github.io/Widget_OpenSankore/Calc_Scientifique>
+
+<https://fbocquet.github.io/Widget_OpenSankore/Calculette_v2>
+
 <https://fbocquet.github.io/Widget_OpenSankore/Calendrier>
 <https://fbocquet.github.io/Widget_OpenSankore/CasenPoche>
 <https://fbocquet.github.io/Widget_OpenSankore/Couleurs>
-<https://fbocquet.github.io/Widget_OpenSankore/Dés simples>
-<https://fbocquet.github.io/Widget_OpenSankore/des_constellation_3.wgt>
-<https://fbocquet.github.io/Widget_OpenSankore/des_constellation_5.wgt>
-<https://fbocquet.github.io/Widget_OpenSankore/des_constellation6.wgt>
-<https://fbocquet.github.io/Widget_OpenSankore/des_lettres.wgt>
-<https://fbocquet.github.io/Widget_OpenSankore/des_numerique_0_9.wgt>
-<https://fbocquet.github.io/Widget_OpenSankore/des_numerique_1_10.wgt>
-<https://fbocquet.github.io/Widget_OpenSankore/des_numerique_1_5.wgt>
+<https://fbocquet.github.io/Widget_OpenSankore/Des_simples>
+<https://fbocquet.github.io/Widget_OpenSankore/Des_constellation_3>
+<https://fbocquet.github.io/Widget_OpenSankore/Des_constellation_5>
+<https://fbocquet.github.io/Widget_OpenSankore/Des_constellation6>
+<https://fbocquet.github.io/Widget_OpenSankore/Des_lettres>
+<https://fbocquet.github.io/Widget_OpenSankore/Des_numerique_0_9>
+<https://fbocquet.github.io/Widget_OpenSankore/Des_numerique_1_10>
+<https://fbocquet.github.io/Widget_OpenSankore/Des_numerique_1_5>
 <https://fbocquet.github.io/Widget_OpenSankore/Echecs>
 <https://fbocquet.github.io/Widget_OpenSankore/Echiquier>
 <https://fbocquet.github.io/Widget_OpenSankore/Ecrire>
@@ -40,12 +50,12 @@ Liste des widgets :
 <https://fbocquet.github.io/Widget_OpenSankore/Groupement>
 <https://fbocquet.github.io/Widget_OpenSankore/Histoires>
 <https://fbocquet.github.io/Widget_OpenSankore/Horloge>
-<https://fbocquet.github.io/Widget_OpenSankore/Horloge digitale>
-<https://fbocquet.github.io/Widget_OpenSankore/Horloge fun>
-<https://fbocquet.github.io/Widget_OpenSankore/Horloge num>
-<https://fbocquet.github.io/Widget_OpenSankore/Horloge numerique>
+<https://fbocquet.github.io/Widget_OpenSankore/Horloge_digitale>
+<https://fbocquet.github.io/Widget_OpenSankore/Horloge_fun>
+<https://fbocquet.github.io/Widget_OpenSankore/Horloge_num>
+<https://fbocquet.github.io/Widget_OpenSankore/Horloge_numerique>
 <https://fbocquet.github.io/Widget_OpenSankore/IE-addition>
-<https://fbocquet.github.io/Widget_OpenSankore/IE-Addition posée>
+<https://fbocquet.github.io/Widget_OpenSankore/IE-Addition_posee>
 <https://fbocquet.github.io/Widget_OpenSankore/IE-addition-lacunaire>
 <https://fbocquet.github.io/Widget_OpenSankore/IE-balance-interactive>
 <https://fbocquet.github.io/Widget_OpenSankore/IE-calcul-mental-addition>
@@ -54,11 +64,11 @@ Liste des widgets :
 <https://fbocquet.github.io/Widget_OpenSankore/IE-calcul-mental-soustraction>
 <https://fbocquet.github.io/Widget_OpenSankore/IE-comparer>
 <https://fbocquet.github.io/Widget_OpenSankore/IE-complement-10>
-<https://fbocquet.github.io/Widget_OpenSankore/IE-Conjuguer Verbe>
+<https://fbocquet.github.io/Widget_OpenSankore/IE-Conjuguer_Verbe>
 <https://fbocquet.github.io/Widget_OpenSankore/IE-conjugueur>
 <https://fbocquet.github.io/Widget_OpenSankore/IE-horloge-interactive>
-<https://fbocquet.github.io/Widget_OpenSankore/IE-monnaie CFA>
-<https://fbocquet.github.io/Widget_OpenSankore/IE-monnaie Euros>
+<https://fbocquet.github.io/Widget_OpenSankore/IE-monnaie_CFA>
+<https://fbocquet.github.io/Widget_OpenSankore/IE-monnaie_Euros>
 <https://fbocquet.github.io/Widget_OpenSankore/IE-ordonner>
 <https://fbocquet.github.io/Widget_OpenSankore/IE-passage-dizaine>
 <https://fbocquet.github.io/Widget_OpenSankore/IE-passage-dizaine-1>
@@ -73,23 +83,23 @@ Liste des widgets :
 <https://fbocquet.github.io/Widget_OpenSankore/iElements>
 <https://fbocquet.github.io/Widget_OpenSankore/InstrumentPoche>
 <https://fbocquet.github.io/Widget_OpenSankore/Labyrinthe>
-<https://fbocquet.github.io/Widget_OpenSankore/Lire l'heure>
-<https://fbocquet.github.io/Widget_OpenSankore/Memory Afrique>
-<https://fbocquet.github.io/Widget_OpenSankore/Memory Chiffres>
-<https://fbocquet.github.io/Widget_OpenSankore/Memory Construction>
-<https://fbocquet.github.io/Widget_OpenSankore/Memory Couleurs>
-<https://fbocquet.github.io/Widget_OpenSankore/Memory Ferme>
-<https://fbocquet.github.io/Widget_OpenSankore/Memory Fruits>
-<https://fbocquet.github.io/Widget_OpenSankore/Memory Legumes>
-<https://fbocquet.github.io/Widget_OpenSankore/Memory Membres>
-<https://fbocquet.github.io/Widget_OpenSankore/Memory Metiers>
-<https://fbocquet.github.io/Widget_OpenSankore/Memory Transports>
-<https://fbocquet.github.io/Widget_OpenSankore/MindMaps test>
-<https://fbocquet.github.io/Widget_OpenSankore/Molécules3D>
+<https://fbocquet.github.io/Widget_OpenSankore/Lire_l'heure>
+<https://fbocquet.github.io/Widget_OpenSankore/Memory_Afrique>
+<https://fbocquet.github.io/Widget_OpenSankore/Memory_Chiffres>
+<https://fbocquet.github.io/Widget_OpenSankore/Memory_Construction>
+<https://fbocquet.github.io/Widget_OpenSankore/Memory_Couleurs>
+<https://fbocquet.github.io/Widget_OpenSankore/Memory_Ferme>
+<https://fbocquet.github.io/Widget_OpenSankore/Memory_Fruits>
+<https://fbocquet.github.io/Widget_OpenSankore/Memory_Legumes>
+<https://fbocquet.github.io/Widget_OpenSankore/Memory_Membres>
+<https://fbocquet.github.io/Widget_OpenSankore/Memory_Metiers>
+<https://fbocquet.github.io/Widget_OpenSankore/Memory_Transports>
+<https://fbocquet.github.io/Widget_OpenSankore/MindMaps_test>
+<https://fbocquet.github.io/Widget_OpenSankore/Molecules3D>
 <https://fbocquet.github.io/Widget_OpenSankore/MonsterMaths>
-<https://fbocquet.github.io/Widget_OpenSankore/Morale du jour>
+<https://fbocquet.github.io/Widget_OpenSankore/Morale_du_jour>
 <https://fbocquet.github.io/Widget_OpenSankore/Nombres>
-<https://fbocquet.github.io/Widget_OpenSankore/Os et muscles>
+<https://fbocquet.github.io/Widget_OpenSankore/Os_et_muscles>
 <https://fbocquet.github.io/Widget_OpenSankore/Papillon>
 <https://fbocquet.github.io/Widget_OpenSankore/PianoForte>
 <https://fbocquet.github.io/Widget_OpenSankore/PictoNotes>

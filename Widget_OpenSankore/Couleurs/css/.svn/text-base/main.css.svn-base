@@ -1,0 +1,91 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    font:14px/1.3 Arial,sans-serif;
+}
+
+.container{
+    color:#000;
+    margin: auto;
+    position:relative;
+    width:350px;
+}
+
+/*Area containing the color picker image*/
+.column1{
+    float:left;
+    width:240px;
+}
+
+#panel{
+    cursor:crosshair;
+}
+ 
+/*Area containing color's preview*/
+.column2{
+    float:left;
+    width:80px;
+}
+
+#preview {
+    border:1px #000 solid;
+    height:200px;
+    width:80px;
+    border-radius:3px;
+    -moz-border-radius:3px;
+    -webkit-border-radius:3px;
+	-khtml-border-radius:3px;
+}
+
+/*Area containing the horizontal tool selector*/
+.column3{
+	float:left;
+	width:220px;
+}
+
+#toolselection {
+	width:220px;
+	height:50px;
+}
+
+/*Images*/
+#swImage{
+    cursor:pointer;
+    height:25px;
+    line-height:25px;
+    border-radius:3px;
+    -moz-border-radius:3px;
+    -webkit-border-radius:3px;
+}
+
+#swImage:hover {
+    margin-left:2px;
+}
+
+/*Tools*/
+#pen{
+	background:url(/images/pen.png) no-repeat;
+    cursor:pointer;
+    width: 46px;
+    height: 46px;
+    border: none;
+}
+
+#marker{
+	background:url(/images/marker.png) no-repeat;
+	cursor:pointer;
+	width: 46px;
+	height: 46px;
+	border: none;
+}
+
+#line{
+	background:url(/images/line.png) no-repeat;
+	cursor:pointer;
+	width: 46px;
+	height: 46px;
+	border: none;
+}

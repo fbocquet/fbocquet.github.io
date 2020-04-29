@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" 
+        identifier="http://getuniboard.com/" 
+        version="1.0"
+        width="975"
+        height="480"
+		ub:resizable="true">
+  <name>Histoires</name>
+   <author>réalisé par Adrien Bocquet et Rémi Babut (Licence MIT) sur spécification de Francois Bocquet</author>
+  <content src="index.html"/>
+</widget>

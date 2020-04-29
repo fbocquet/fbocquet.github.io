@@ -38,19 +38,19 @@ Liste des widgets :
 
 <https://fbocquet.github.io/Widget_OpenSankore/Des_simples>
 
-<https://fbocquet.github.io/Widget_OpenSankore/Des_constellation_3>
+<https://fbocquet.github.io/Widget_OpenSankore/des_constellation_3.wgt>
 
-<https://fbocquet.github.io/Widget_OpenSankore/Des_constellation_5>
+<https://fbocquet.github.io/Widget_OpenSankore/des_constellation_5.wgt>
 
-<https://fbocquet.github.io/Widget_OpenSankore/Des_constellation6>
+<https://fbocquet.github.io/Widget_OpenSankore/des_constellation6.wgt>
 
-<https://fbocquet.github.io/Widget_OpenSankore/Des_lettres>
+<https://fbocquet.github.io/Widget_OpenSankore/des_lettres.wgt>
 
-<https://fbocquet.github.io/Widget_OpenSankore/Des_numerique_0_9>
+<https://fbocquet.github.io/Widget_OpenSankore/des_numerique_0_9.wgt>
 
-<https://fbocquet.github.io/Widget_OpenSankore/Des_numerique_1_10>
+<https://fbocquet.github.io/Widget_OpenSankore/des_numerique_1_10.wgt>
 
-<https://fbocquet.github.io/Widget_OpenSankore/Des_numerique_1_5>
+<https://fbocquet.github.io/Widget_OpenSankore/des_numerique_1_5.wgt>
 
 <https://fbocquet.github.io/Widget_OpenSankore/Echecs>
 

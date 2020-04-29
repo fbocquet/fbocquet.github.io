@@ -178,8 +178,4 @@ Liste des widgets :
 
 <https://fbocquet.github.io/Widget_OpenSankore/Squelette>
 
-<https://fbocquet.github.io/Widget_OpenSankore/Vikidia>
-
 <https://fbocquet.github.io/Widget_OpenSankore/Visualiseur>
-
-<https://fbocquet.github.io/Widget_OpenSankore/Weektionnaire>

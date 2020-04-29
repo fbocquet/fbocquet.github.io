@@ -174,8 +174,6 @@ Liste des widgets :
 
 <https://fbocquet.github.io/Widget_OpenSankore/PianoForte>
 
-<https://fbocquet.github.io/Widget_OpenSankore/PictoNotes>
-
 <https://fbocquet.github.io/Widget_OpenSankore/Squelette>
 
 <https://fbocquet.github.io/Widget_OpenSankore/Visualiseur>

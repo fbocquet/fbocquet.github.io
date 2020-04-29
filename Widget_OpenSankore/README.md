@@ -26,7 +26,7 @@ Liste des widgets :
 
 <https://fbocquet.github.io/Widget_OpenSankore/C-doux>
 
-<https://fbocquet.github.io/Widget_OpenSankore/Calc_Scientifique>
+<https://fbocquet.github.io/Widget_OpenSankore/Calc__Scientifique>
 
 <https://fbocquet.github.io/Widget_OpenSankore/Calculette_v2>
 
